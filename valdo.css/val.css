@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(247, 185, 0);
+    text-shadow: rgb(20, 20, 20) 2px 2px;
+}
+
+
+body{
+    background-color: rgb(212, 247, 247);
+    background-image: url(../BG/1967\ \(2\).jpg);
+    background-repeat: no-repeat;
+
+    }
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.huta{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(6, 239, 220);
+    text-shadow: rgb(20, 20, 20) 2px 2px;
+
+}
